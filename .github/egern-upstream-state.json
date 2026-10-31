@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "upstream": "ddgksf2013/Rewrite",
+  "branch": "master",
+  "upstream_commit": "dc3ea2c1fb2db870676b26da24006083eb1d44d3",
+  "mode": "merge-upstream",
+  "checked_at": "2026-10-31T11:22:09.578Z"
+}

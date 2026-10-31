@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "upstream": "ddgksf2013/Rewrite",
+  "base_commit": "662df8187af43ad56b9a072e839155ebc4206437",
+  "role": "rewrite-configs",
+  "releases": [],
+  "managed_paths": [
+    "AdBlock/AmapAds.conf",
+    "AdBlock/Applet.conf",
+    "AdBlock/ChinaUnicomAds.conf",
+    "AdBlock/GoofishAds.conf",
+    "AdBlock/NeteaseAds.conf",
+    "Function/UnblockURLinWeChat.conf",
+    "Html/General.conf",
+    "Html/Q-Search.conf"
+  ]
+}
